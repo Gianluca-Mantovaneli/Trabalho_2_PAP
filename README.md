@@ -46,8 +46,5 @@ O código contém exemplos de como usar as funções implementadas. Os resultado
 ## Considerações Finais
 Este projeto é uma aplicação prática dos conceitos de programação funcional em Python, demonstrando a manipulação de dados provenientes de uma fonte externa (DBpedia) e a replicação de lógicas que foram inicialmente escritas em Prolog.
 
-## Licença
-Este projeto é licenciado sob a [Nome da Licença]. Consulte o arquivo `LICENSE` para mais detalhes.
-
 ## Autor
 Gianluca Schmidt Mantovaneli
