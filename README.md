@@ -28,7 +28,7 @@ pip install requests
 3. Execute o script:
 
 ```bash
-python3 T2_nome_do_aluno.py
+python3 T2_Gianluca_Schmidt_Mantovaneli.py
 ```
 
 ## Estrutura do Código
